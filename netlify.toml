@@ -7,10 +7,10 @@ HUGO_VERSION = '0.104.3'
 
 [context]
 [context.branch-deploy]
-command = 'hugo -F -b $DEPLOY_PRIME_URL'
+command = 'hugo -F -b $http://samriti-io'
 
 [context.deploy-preview]
-command = 'hugo -F -b $DEPLOY_PRIME_URL'
+command = 'hugo -F -b $http://samriti-io'
 
 [context.production]
 [context.production.environment]
