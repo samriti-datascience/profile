@@ -1,0 +1,139 @@
+head:
+  title: "Samriti Attrey's Data Science Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Samriti Attrey."
+  subtitle: "Data Scientist"
+  description: "Data Science professional passionate about implementing
+data driven solutions with more than five years of experience in
+payments, consulting and e-commerce industry."
+  image:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+  imageMobile:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Samriti"
+    URL: "mailto:attreysamriti@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/samriti-attrey-4b1229b0/"
+
+    - icon: "github"
+      URL: "https://github.com"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>I love helping my business stakeholders.</strong> My passion is implementing data-driven solutions to help businesses. But, when I am not working
+    , I enjoy travelling, playing guitar and badminton. 
+    </p>
+    <p class="lead">
+    <strong>My area of focus</strong> is applying data science to business. 
+    I create value for companies by understanding business problems and helping with KPIs to improve customer experience and reduce losses. 
+    I enjoy learning, working with stakeholders, and making better decisions with data.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/samriti-attrey-4b1229b0/"
+  image:
+    x: "img/who-am-i/sam-min.png"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 5+ years of experience working with companies from all over the world. I have worked with e-commerce, consulting and payment companies to help solve their problems."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/samriti-attrey-4b1229b0/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "https://drive.google.com/file/d/1pWHv_hoyLKa308VXBl5iNuF2SLhU4Y0P/view?usp=sharing"
+
+  items:
+    - title: "PayPal"
+      company: "Data Scientist"
+      duration: "July 2021 - Present"
+
+    - title: "Amazon"
+      company: "Business Analyst"
+      duration: "Mar 2019 - Apr 2021"
+
+    - title: "Deloitte"
+      company: "Business Technology Analyst"
+      duration: "Apr 2017 - Apr 2021"
+      
+    - title: "Mu-sigma"
+      company: "Trainee Decision Scientist"
+      duration: "Oct 2016 - March 2017"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "National Institute of Technology, Hamirpur"
+      year: "2012-2016"
+      degree: "Bachelor of Technology"
+      
+# certifications
+education:
+  enable: true
+  title: "Certifications"
+  items:
+    - university: "IBM Data Science Professional Certificate Coursera"
+      year: "IBM"
+    - university: "Machine learning with Python"
+      year: "IBM"
+    - university: "Professionally trained in Structure problem solving,Hypothesis Testing and Storyboarding"
+
+# contact
+contact:
+  enable: true
+  title: "Contact Samriti"
+    
+  image:
+    x: "img/who-am-i/sam-min.png"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:attreysamriti@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "Available on request"
+  email:
+    title: "Email"
+    email: '<a href="mailto:attreysamriti@gmail.com">attreysamriti@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "Bangalore, India"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
